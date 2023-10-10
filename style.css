@@ -1,0 +1,13 @@
+.LampaElem{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    background-color: #bbb;
+    border-radius: 50%;
+}
+
+.jatekter{
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px;
+}
